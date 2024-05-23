@@ -1,0 +1,3 @@
+6. Crear una función que nos devuelva el factorial de un número entero.
+
+7. Crear una función que nos indique si un número es primo o no.

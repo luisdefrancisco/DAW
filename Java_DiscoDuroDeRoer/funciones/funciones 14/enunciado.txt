@@ -1,0 +1,3 @@
+29. Obten el maximo comun divisor de dos numeros.
+
+30. Obten el minimo comun multiplo de dos numeros.

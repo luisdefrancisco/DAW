@@ -1,0 +1,5 @@
+﻿10. Crear una función que nos muestre por pantalla  un array  que hayamos creado.
+
+11. Crear una función que nos devuelva la suma de un array y otra que nos devuelva la media.
+
+12. Crea una función que nos devuelva un array de un numero a otro, ambos incluidos. Por ejemplo, si introduzco de 5 a 7, el array tendrá los números 5,6,7 pero si inserto de 7 a 5, el array tendrá los números de 7 a 5.
